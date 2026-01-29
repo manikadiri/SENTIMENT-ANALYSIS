@@ -172,8 +172,4 @@ python task.py
 
 
 
-* 📊 Add **sample output screenshots**
-* 🧪 Add **model evaluation metrics**
-* 🌐 Convert this into a **web-based sentiment analyzer**
 
-Just tell me 😊
