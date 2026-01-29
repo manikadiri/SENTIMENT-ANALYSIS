@@ -124,7 +124,7 @@ MultinomialNB()
 
 ---
 
-## 📊 Output Generated
+##  Output Generated
 
 The program prints:
 
